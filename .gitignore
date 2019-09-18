@@ -8,6 +8,5 @@ Uproject/Intermediate/
 Uproject/Content/
 
 # Ignore anything past this point in MakePak
-MakePak/Falcon/Plugins/Characters/Npc/
-
+MakePak/Falcon/Plugins/Characters/Npc/CNS2092_Elora/
 *.pak
