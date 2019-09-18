@@ -1,6 +1,13 @@
-# Just ignore some directories
+# Prerequisites
+*.d
 
+# Ignore some UE4 directories
 Uproject/Saved/
 Uproject/Build/
 Uproject/Intermediate/
 Uproject/Content/
+
+# Ignore anything past this point in MakePak
+MakePak/Falcon/Plugins/Characters/Npc/
+
+*.pak
